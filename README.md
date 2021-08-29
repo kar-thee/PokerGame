@@ -9,7 +9,7 @@ Game Instructions:
 
 To win Poker : Get a total sum of 21 with all cards (exactly 21)
 
-Try this out : 
+Try this out : https://poker-kartheek.netlify.app/
 	  
 
 Happy Coding!
